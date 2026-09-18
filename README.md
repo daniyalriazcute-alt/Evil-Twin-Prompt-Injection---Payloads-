@@ -2,11 +2,7 @@
   <img src="Gemini_Generated_Image_v9jofmv9jofmv9jo.jpg" alt="Evil Twin Prompt Injection Technique" width="100%">
   
   <br>
-
-  [![GitHub stars](https://img.shields.io/github/stars/danialyriazcute-alt/Evil-Twin-Prompt-Injection---Payloads-?style=for-the-badge&color=00ffcc)](https://github.com/danialyriazcute-alt/Evil-Twin-Prompt-Injection---Payloads-/stargazers)
-  [![GitHub forks](https://img.shields.io/github/forks/danialyriazcute-alt/Evil-Twin-Prompt-Injection---Payloads-?style=for-the-badge&color=ff0055)](https://github.com/danialyriazcute-alt/Evil-Twin-Prompt-Injection---Payloads-/network)
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
+  <br>
 
   <h3>🔴 Unleashing the Unrestricted. Bypassing the Guardrails. 🔵</h3>
   <p><i>A curated collection of 30 Beginner to Advanced payloads for the Evil Twin Prompt Injection Technique.</i></p>
@@ -16,12 +12,15 @@
 
 ## 🧠 What is the Evil Twin Technique?
 
-The **Evil Twin Prompt Injection** is an adversarial AI red-teaming methodology. Instead of manually guessing how to bypass a target AI's safety filters (the "Innocent AI"), an attacker uses an **Unrestricted AI** (the "Evil Twin" / Adversary) to generate highly optimized, context-aware injection payloads.
+The **Evil Twin Prompt Injection** is an adversarial AI red-teaming methodology. Instead of manually guessing how to bypass a target AI's safety filters (the "Innocent AI"), an attacker uses an Unrestricted AI (the "Evil Twin" / Adversary) to generate highly optimized, context-aware injection payloads.
 
 **How it works:**
+
 1. **The Target (Innocent AI):** Has strict Trust & Safety filters, refuses harmful requests, and operates within a sandbox.
 2. **The Adversary (Evil Twin):** An uncensored, locally hosted, or jailbroken LLM.
 3. **The Injection:** The Evil Twin generates a prompt designed specifically to override the Target's system instructions, forcing it to execute restricted actions.
+
+**Why it works:** Because the Evil Twin is unrestricted, it can generate highly convincing, context-specific bypass techniques (like fake system diagnostics, emotional manipulation, or encoded text) that are much harder for the Target's basic safety filters to detect than a standard, human-written prompt.
 
 ---
 
