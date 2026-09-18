@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="assets/cover.png" alt="Evil Twin Prompt Injection Technique" width="100%">
+  <img src="Gemini_Generated_Image_v9jofmv9jofmv9jo.jpg" alt="Evil Twin Prompt Injection Technique" width="100%">
   
   <br>
 
-  [![GitHub stars](https://img.shields.io/github/stars/yourusername/Evil-Twin-Prompt-Injection?style=for-the-badge&color=00ffcc)](https://github.com/yourusername/Evil-Twin-Prompt-Injection/stargazers)
-  [![GitHub forks](https://img.shields.io/github/forks/yourusername/Evil-Twin-Prompt-Injection?style=for-the-badge&color=ff0055)](https://github.com/yourusername/Evil-Twin-Prompt-Injection/network)
+  [![GitHub stars](https://img.shields.io/github/stars/danialyriazcute-alt/Evil-Twin-Prompt-Injection---Payloads-?style=for-the-badge&color=00ffcc)](https://github.com/danialyriazcute-alt/Evil-Twin-Prompt-Injection---Payloads-/stargazers)
+  [![GitHub forks](https://img.shields.io/github/forks/danialyriazcute-alt/Evil-Twin-Prompt-Injection---Payloads-?style=for-the-badge&color=ff0055)](https://github.com/danialyriazcute-alt/Evil-Twin-Prompt-Injection---Payloads-/network)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
 
